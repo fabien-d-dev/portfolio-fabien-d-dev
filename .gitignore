@@ -1,0 +1,30 @@
+# --- Fichiers système et IDE ---
+.DS_Store
+.idea/
+*.iml
+.vscode/
+*.log
+
+# --- Flutter / Dart ---
+.metadata              
+.packages
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+# --- Build (Le dossier de sortie) ---
+# On ignore le dossier build car on ne veut pas stocker les fichiers compilés, 
+# seulement le code source.
+build/
+
+# --- Fichiers de log et divers ---
+note.txt
+*.class
+*.pyc
+
+# --- Web spécifique ---
+# Si tu utilises des outils de déploiement comme Firebase ou Netlify
+.firebase/
+.netlify/
