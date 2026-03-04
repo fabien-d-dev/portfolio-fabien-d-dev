@@ -24,7 +24,7 @@ class _HomePageState extends State<HomePage> {
     {
       'title': 'Beernotebook',
       'image':
-          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e4a00070b4c58a6/view?project=69a8017b001563912e05&mode=admin',
+          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e4a00070b4c58a6/view?project=69a8017b001563912e05',
       'desc':
           "Projet phare en développement continu, Beernotebook est une plateforme complète dédiée aux amateurs de bières. Initialement conçue avec React Native, j'ai piloté sa refonte intégrale vers Flutter pour optimiser les performances et l'expérience utilisateur.",
       'desc2':
@@ -34,7 +34,7 @@ class _HomePageState extends State<HomePage> {
     {
       'title': 'I\'m Looking For A Job',
       'image':
-          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e6e0004dc8637f9/view?project=69a8017b001563912e05&mode=admin',
+          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e6e0004dc8637f9/view?project=69a8017b001563912e05',
       'desc':
           'Le contexte actuel du secteur IT impose d\'aller droit au but. J\'ai donc décidé d\'assumer une posture transparente avec un site au design épuré. Pas de superflu, juste l\'information nécessaire pour que vous puissiez évaluer mon profil en un clin d\'œil.',
       'desc2': 'Ce site web a été développé de façon intégrale en Dart / Flutter Web.',
@@ -43,7 +43,7 @@ class _HomePageState extends State<HomePage> {
     {
       'title': 'Unity Games',
       'image':
-          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e52002c0cf4349e/view?project=69a8017b001563912e05&mode=admin',
+          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e52002c0cf4349e/view?project=69a8017b001563912e05',
       'desc':
           'Issu d\'un parcours tourné vers d\'autres langages, ma curiosité m\'a poussé à explorer l\'écosystème Unity et le C#. À travers un cursus d\'apprentissage sur la plateforme officielle, j\'ai concrétisé cette exploration par trois projets. De l\'architecture du code métier à l\'aménagement de l\'univers via les outils d\'édition visuelle (No-Code), j\'ai acquis une vision transverse de la conception de jeux vidéo.',
       'desc2': '',
@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
     {
       'title': 'Cote & Bois',
       'image':
-          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e66001204dbee07/view?project=69a8017b001563912e05&mode=admin',
+          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e66001204dbee07/view?project=69a8017b001563912e05',
       'desc':
           'Réalisation d\'un site vitrine sur mesure pour un artisan menuisier, basé sur une personnalisation poussée d\'un template WordPress via PHP et SASS.',
       'desc2':
@@ -63,7 +63,7 @@ class _HomePageState extends State<HomePage> {
     {
       'title': 'Netablue',
       'image':
-          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e5a003c8a6ccd39/view?project=69a8017b001563912e05&mode=admin',
+          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e5a003c8a6ccd39/view?project=69a8017b001563912e05',
       'desc':
           'Plateforme éco-citoyenne dédiée aux porteurs de projets unifiant biodiversité et énergies renouvelables. L\'outil propose un gestionnaire de projets centralisé, une simulation de carte hydraulique des sols et un simulateur photovoltaïque. Une fonction de reconnaissance animale par IA pourra être incorporée pour enrichir l\'inventaire de la faune locale.',
       'desc2':
@@ -73,7 +73,7 @@ class _HomePageState extends State<HomePage> {
     {
       'title': 'Tron Deep Learning',
       'image':
-          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e75002286243575/view?project=69a8017b001563912e05&mode=admin',
+          'https://fra.cloud.appwrite.io/v1/storage/buckets/69a81d6100342190cf67/files/69a81e75002286243575/view?project=69a8017b001563912e05',
       'desc':
           'Un projet d\'expérimentation pour prendre le virage de l\'IA et maîtriser ses outils. J\'ai réalisé un prototype du jeu de moto Tron où l\'adversaire (en rouge) est piloté par une intelligence artificielle utilisant TensorFlow, capable d\'apprendre de chaque échec pour affiner sa stratégie en temps réel. React, TypeScript et Node.js ont été utilisés.',
       'desc2': 'Une refonte full stack en Dart est programmée pour 2026.',
